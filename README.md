@@ -1,12 +1,9 @@
 Business Objective:
-
-      The objective of this project is to classify the sentiment of the review based on the review provided by the user
+                        
+        The objective of this project is to classify the sentiment of the review based on the review provided by the user 
+Dataset:   
       
-Dataset: 
-       
-       https://www.kaggle.com/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews#__sid=js0 
-
-
+      https://www.kaggle.com/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews#__sid=js0 
 PipeLine Used:
 
     1. Lowercasing
